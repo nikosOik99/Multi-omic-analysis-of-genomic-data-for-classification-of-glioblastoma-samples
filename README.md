@@ -1,4 +1,4 @@
-# Multi-omic-analysis-of-genomic-data-for-classification-of-glioblastoma-samples
+# Multi-omics analysis of genomic data for classification of glioblastoma samples
 This repository represents my Thesis
 
 <h1> Introduction </h1>
