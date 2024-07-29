@@ -1,5 +1,5 @@
 # Multi-omics analysis of genomic data for classification of glioblastoma samples
-This repository represents my Thesis
+This repository represents my BSc Thesis
 
 <h1> Introduction </h1>
  Clustering of individual omic datasets has proven invaluable for biological and medical research. Decreasing costs and the development of next-generation sequencing (NGS) methods now have the measurement of multi-omic data. Clustering multiple omics data has the potential to reveal further systems-level insights, but raises computational and biological challenges. <br/><br/>
